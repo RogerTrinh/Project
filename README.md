@@ -1,5 +1,6 @@
 # Tru Earth, Accessibility Enhancement Project
 <img width="605" alt="image" src="https://github.com/user-attachments/assets/0c8678ea-4843-4687-8cab-6e03df3ad044">
+
 **Project Duration:** January 2024 – April 2024  
 **Role:** Project Team Member
 
