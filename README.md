@@ -26,6 +26,6 @@ The Tru Earth, Accessibility Enhancement Project aimed to improve both hardware 
 ---
 
 ### How to Use This Repository
-This repository contains documentation and resources related to the Tru Earth Accessibility Enhancement Project. You can find the full project report, analysis data, and any relevant code or scripts in the respective folders.
+This repository contains documentation and resources related to the Tru Earth Accessibility Enhancement Project. You can find the full project report in the attached PDF.
 
 
